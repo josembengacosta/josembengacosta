@@ -53,17 +53,6 @@
   </a>
 </p>
 
-<!-- Tech pills (estilizadas conforme você enviou) -->
-<div class="tech-stack" style="margin-top:12px;">
-  <span class="tech-pill" style="display:inline-block;background:#222;color:#fff;padding:6px 10px;border-radius:999px;margin:4px;font-weight:600;">PHP</span>
-  <span class="tech-pill" style="display:inline-block;background:#222;color:#fff;padding:6px 10px;border-radius:999px;margin:4px;font-weight:600;">MySQL</span>
-  <span class="tech-pill" style="display:inline-block;background:#222;color:#fff;padding:6px 10px;border-radius:999px;margin:4px;font-weight:600;">JavaScript</span>
-  <span class="tech-pill" style="display:inline-block;background:#222;color:#fff;padding:6px 10px;border-radius:999px;margin:4px;font-weight:600;">React</span>
-  <span class="tech-pill" style="display:inline-block;background:#222;color:#fff;padding:6px 10px;border-radius:999px;margin:4px;font-weight:600;">Vue.js</span>
-  <span class="tech-pill" style="display:inline-block;background:#222;color:#fff;padding:6px 10px;border-radius:999px;margin:4px;font-weight:600;">Node.js</span>
-  <span class="tech-pill" style="display:inline-block;background:#222;color:#fff;padding:6px 10px;border-radius:999px;margin:4px;font-weight:600;">Git</span>
-</div>
-
 <table align="center">
   <tr>
     <td>
