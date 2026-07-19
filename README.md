@@ -70,7 +70,10 @@
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=josembengacosta&show_icons=true&theme=default" alt="GitHub stats for josembengacosta" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josembengacosta&layout=compact&theme=default" alt="Top languages for josembengacosta"/>
+     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=josembengacosta&layout=compact"/>
     </td>
   </tr>
 </table>
+
+
+
