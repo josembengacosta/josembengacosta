@@ -168,6 +168,29 @@ A modern marketplace architecture focused on connecting clients and professional
 
 ## 🎯 Engineering Focus
 
+Software Architecture
+│
+├── Backend Systems
+│      ├── PHP
+│      ├── Laravel
+│      └── REST APIs
+│
+├── Frontend Systems
+│      ├── JavaScript
+│      ├── Bootstrap
+│      └── Progressive Web Apps
+│
+├── Data
+│      ├── MySQL
+│      └── MariaDB
+│
+└── Digital Products
+├── Music Technology
+├── AI & Culture
+├── Marketplaces
+└── Digital Platforms
+
+
 ---
 
 ## 🌍 Building From Angola
